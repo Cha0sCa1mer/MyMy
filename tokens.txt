@@ -1,4 +1,0 @@
-apt
-USDT
-BTC
-usdc
